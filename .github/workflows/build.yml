@@ -5,7 +5,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Get current time
-        uses: gerred/actions/current-time@master
+        uses: zhongliangwang/current-time@master
         id: current-time
       - name: Use current time
         env:
