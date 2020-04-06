@@ -4,8 +4,8 @@
   "main": "index.js",
   "license": "Apache-2.0",
   "dependencies": {
-    "@actions/core": "^1.2.0",
+    "@actions/core": "^1.2.3",
     "@actions/github": "^1.1.0",
-    "dayjs": "^1.8.17"
+    "dayjs": "^1.8.23"
   }
 }
